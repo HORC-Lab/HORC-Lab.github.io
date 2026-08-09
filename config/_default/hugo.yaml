@@ -67,3 +67,4 @@ sitemap:
 ignoreLogs:
   - 'pub-legacy-.*'
   - 'url_pdf-.*'
+  - 'doi-.*'

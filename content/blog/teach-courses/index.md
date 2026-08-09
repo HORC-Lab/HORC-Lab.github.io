@@ -40,7 +40,6 @@ Here's an example of citing a publication using the cite shortcode:
 
 You can also use the default view by omitting the view parameter:
 
-{{< cite page="/publications/conference-paper" >}}
 
 ## Video
 

@@ -194,7 +194,7 @@ sections:
 
         <!-- Left Card: Locations -->
         <div style="background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 1.5rem 1.25rem;">
-        <h3 style="margin: 0 0 0.85rem 0; font-size: 1.45rem; font-weight: 700; color: #0284C7; line-height: 1.2;">Lab Locations</h3>
+        <h3 style="margin: 0 0 0.85rem 0; font-size: 1.45rem; font-weight: 700; color: #0284C7; line-height: 1.2;">Lab Locations - University of Delaware</h3>
         <p style="margin: 0 0 0.65rem 0; font-size: 1.12rem; line-height: 1.35; white-space: nowrap;"><strong>Main Lab:</strong> 206 Spencer Lab, Newark, DE 19716</p>
         <p style="margin: 0; font-size: 1.12rem; line-height: 1.35; white-space: nowrap;"><strong>STAR Campus:</strong> 116 STAR Health Sciences Complex, Newark, DE 19716</p>
         </div>
