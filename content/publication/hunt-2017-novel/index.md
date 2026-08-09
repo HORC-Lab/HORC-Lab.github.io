@@ -2,7 +2,7 @@
 title: A Novel Shoulder Exoskeleton Robot Using Parallel Actuation and a Passive Slip
   Interface
 date: '2017-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:27.272656Z'
 authors:
 - Justin Hunt

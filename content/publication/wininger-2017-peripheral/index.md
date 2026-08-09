@@ -1,6 +1,6 @@
 ---title: Peripheral Nervous System-Machine Interfaces
 date: '2017-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:24.601420Z'
 authors:
 - Michael Wininger

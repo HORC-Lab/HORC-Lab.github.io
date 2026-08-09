@@ -1,7 +1,7 @@
 ---title: Beyond user-specificity for EMG decoding using multiresolution muscle synergy
   analysis
 date: '2013-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:39.036322Z'
 authors:
 - Mark Ison

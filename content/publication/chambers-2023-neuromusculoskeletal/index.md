@@ -2,7 +2,7 @@
 title: A neuro-musculoskeletal model predicts the effect of a new type of perturbation
   on human walking
 date: '2023-03-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:16.969164Z'
 authors:
 - Vaughn Chambers

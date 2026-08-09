@@ -1,6 +1,6 @@
 ---title: Modeling, Full Identification and Control of the Mitsubishi PA-10 Robot Arm
 date: '2007-09-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:51.960669Z'
 authors:
 - Nikolaos A. Bompos

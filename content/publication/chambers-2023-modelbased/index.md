@@ -1,7 +1,7 @@
 ---title: 'A Model-Based Analysis of The Effect of Repeated Unilateral Low Stiffness
   Perturbations on Human Gait: Toward Robot-Assisted Rehabilitation'
 date: '2023-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:17.256589Z'
 authors:
 - Vaughn Chambers

@@ -1,7 +1,7 @@
 ---title: Repeated Robot-assisted Unilateral Stiffness perturbations Result in Significant
   Aftereffects Relevant to Post-Stroke Gait Rehabilitation
 date: '2022-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:18.485197Z'
 authors:
 - Vaughn Chambers

@@ -1,7 +1,7 @@
 ---title: 'The Variable Stiffness Treadmill (VST) 2: Development and Validation of a
   Unique Tool to Investigate Locomotion on Compliant Terrain'
 date: '2025-03-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:13.233531Z'
 authors:
 - Vaughn Chambers

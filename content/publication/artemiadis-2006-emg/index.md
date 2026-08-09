@@ -1,7 +1,7 @@
 ---title: EMG-based teleoperation of a robot arm in planar catching movements using ARMAX
   model and trajectory monitoring techniques
 date: '2006-05-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:52.989886Z'
 authors:
 - Panagiotis Artemiadis

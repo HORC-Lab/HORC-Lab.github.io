@@ -1,7 +1,7 @@
 ---title: Enhancing Practical Multifunctional Myoelectric Applications through Implicit
   Motor Control Training Systems
 date: '2014-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:36.342038Z'
 authors:
 - Mark Ison

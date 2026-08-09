@@ -1,7 +1,7 @@
 ---title: 'Modeling and Control of Mid-flight Coupling of Quadrotors: A new concept for
   Quadrotor cooperation'
 date: '2020-09-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:21.143198Z'
 authors:
 - Daniel Larsson

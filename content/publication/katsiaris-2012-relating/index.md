@@ -1,7 +1,7 @@
 ---title: 'Relating Postural Synergies to Low-D Muscular Activations: Towards Bio-inspired
   Control of Robotic Hands'
 date: '2012-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:42.411435Z'
 authors:
 - Pantelis Katsiaris

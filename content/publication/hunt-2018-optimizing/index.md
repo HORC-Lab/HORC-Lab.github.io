@@ -1,7 +1,7 @@
 ---title: Optimizing Stiffness of a Novel Parallel-Actuated Robotic Shoulder Exoskeleton
   for a Desired Task or Workspace
 date: '2018-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:23.645749Z'
 authors:
 - Justin Hunt

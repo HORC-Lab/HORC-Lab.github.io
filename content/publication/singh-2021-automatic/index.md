@@ -1,7 +1,7 @@
 ---title: Automatic Identification of the Leader in a Swarm using an Optimized Clustering
   and Probabilistic Approach
 date: '2021-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:19.536754Z'
 authors:
 - Ajitesh Singh

@@ -1,7 +1,7 @@
 ---title: Kinematics, kinetics, and muscle activations during human locomotion over compliant
   terrains
 date: '2025-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:12.924511Z'
 authors:
 - Charikleia Angelidou

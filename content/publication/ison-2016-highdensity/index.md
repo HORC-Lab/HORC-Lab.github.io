@@ -1,7 +1,7 @@
 ---title: High-Density Electromyography and Motor Skill Learning for Robust Long-Term
   Control of a 7-DoF Robot Arm
 date: '2016-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:29.261187Z'
 authors:
 - Mark Ison

@@ -1,6 +1,6 @@
 ---title: On the interlimb coordination and synchronization during gait
 date: '2011-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:44.709245Z'
 authors:
 - Panagiotis Artemiadis

@@ -1,7 +1,7 @@
 ---title: Learning Adversarial Policies for Swarm Leader Identification using a Probing
   Agent
 date: '2025-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:12.621238Z'
 authors:
 - Stergios Bachoumas

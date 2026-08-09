@@ -1,7 +1,7 @@
 ---title: Unilateral Changes in Walking Surface Compliance Evoke Dorsiflexion in Paretic
   Leg of Impaired Walkers
 date: '2017-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:24.910951Z'
 authors:
 - Jeffrey Skidmore

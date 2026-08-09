@@ -1,7 +1,7 @@
 ---
 title: Neural correlates of grip aperture in primary motor cortex
 date: '2007-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:52.670621Z'
 authors:
 - C. Vargas-Irwin

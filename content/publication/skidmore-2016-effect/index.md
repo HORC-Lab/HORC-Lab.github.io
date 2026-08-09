@@ -1,7 +1,7 @@
 ---title: 'On the effect of walking surface stiffness on inter-limb coordination in human
   walking: toward bilaterally informed robotic gait rehabilitation'
 date: '2016-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:29.583115Z'
 authors:
 - Jeffrey Skidmore

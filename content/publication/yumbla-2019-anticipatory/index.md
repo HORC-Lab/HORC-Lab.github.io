@@ -1,7 +1,7 @@
 ---title: 'Anticipatory muscle responses in transitions from rigid to compliant surfaces:
   towards smart ankle-foot prostheses'
 date: '2019-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:22.421037Z'
 authors:
 - Emiliano Quinones Yumbla

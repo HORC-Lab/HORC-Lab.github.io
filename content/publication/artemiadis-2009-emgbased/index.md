@@ -2,7 +2,7 @@
 title: 'EMG-Based Position and Force Estimates in Coupled Human-Robot Systems: Towards
   EMG-Controlled Exoskeletons'
 date: '2009-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:49.646278Z'
 authors:
 - Panagiotis Artemiadis

@@ -1,6 +1,6 @@
 ---title: On the Effect of Muscular Co-contraction on the 3D Human Arm Impedance
 date: '2014-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:37.416542Z'
 authors:
 - Harshil Patel

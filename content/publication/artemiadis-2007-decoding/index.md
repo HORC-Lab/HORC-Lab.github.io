@@ -1,6 +1,6 @@
 ---title: Decoding Grasp Aperture from Motor-Cortical Population Activity
 date: '2007-05-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:52.332436Z'
 authors:
 - Panagiotis Artemiadis

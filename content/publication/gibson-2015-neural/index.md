@@ -1,6 +1,6 @@
 ---title: Neural Closed-loop Control of a Hand Prosthesis using Cross-modal Haptic Feedback
 date: '2015-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:30.910789Z'
 authors:
 - Alison Gibson

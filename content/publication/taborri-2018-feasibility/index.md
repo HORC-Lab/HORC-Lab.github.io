@@ -1,7 +1,7 @@
 ---title: 'Feasibility of muscle synergy outcomes in clinics, robotics and sports: a
   systematic review'
 date: '2018-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:23.328816Z'
 authors:
 - Juri Taborri

@@ -1,7 +1,7 @@
 ---title: 'On the Effect of Swarm Collective Behavior on Human Perception: Towards Brain-Swarm
   Interfaces'
 date: '2015-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:30.261074Z'
 authors:
 - George K. Karavas

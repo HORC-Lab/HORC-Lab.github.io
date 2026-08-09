@@ -1,6 +1,6 @@
 ---title: Robot-assisted Targeted Gait Training
 date: '2024-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:15.406100Z'
 authors:
 - Vaughn Chambers

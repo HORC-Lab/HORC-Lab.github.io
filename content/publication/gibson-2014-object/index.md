@@ -1,7 +1,7 @@
 ---title: Object Discrimination Using Optimized Multi-frequency Auditory Cross-Modal
   Haptic Feedback
 date: '2014-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:36.721702Z'
 authors:
 - Alison Gibson

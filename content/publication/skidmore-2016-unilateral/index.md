@@ -1,7 +1,7 @@
 ---title: 'Unilateral Floor Stiffness Perturbations Systematically Evoke Contralateral
   Leg Muscle Responses: a New Approach to Robot-assisted Gait Therapy'
 date: '2016-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:28.924711Z'
 authors:
 - Jeffrey Skidmore

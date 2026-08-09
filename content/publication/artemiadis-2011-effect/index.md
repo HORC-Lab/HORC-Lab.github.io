@@ -1,7 +1,7 @@
 ---title: 'On the Effect of Human Arm Manipulability in 3D Force Tasks: Towards Force-controlled
   Exoskeletons'
 date: '2011-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:46.100595Z'
 authors:
 - Panagiotis Artemiadis

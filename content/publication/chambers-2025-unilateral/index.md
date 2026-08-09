@@ -1,7 +1,7 @@
 ---title: 'Unilateral Compliant Surfaces in Post-Stroke Gait Retraining: Enhancing Symmetry
   and Stability'
 date: '2025-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:11.996619Z'
 authors:
 - Vaughn Chambers

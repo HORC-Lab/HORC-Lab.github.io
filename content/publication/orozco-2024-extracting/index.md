@@ -1,6 +1,6 @@
 ---title: Extracting Human Levels of Trust in Human-Swarm Interaction using EEG signals
 date: '2024-04-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:14.761134Z'
 authors:
 - Jesus Orozco

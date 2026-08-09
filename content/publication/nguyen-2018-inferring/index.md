@@ -1,7 +1,7 @@
 ---title: 'Inferring imagined speech using EEG signals: a new approach using Riemannian
   manifold features'
 date: '2018-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:24.285578Z'
 authors:
 - Chuong H. Nguyen

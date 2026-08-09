@@ -1,7 +1,7 @@
 ---title: Investigation of Contralateral Leg Response to Unilateral Stiffness Perturbations
   using a Novel Device
 date: '2014-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:37.078324Z'
 authors:
 - Jeffrey Skidmore

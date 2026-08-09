@@ -1,7 +1,7 @@
 ---title: 'Leg Muscle Activation Evoked by Floor Stiffness Perturbations: A Novel Approach
   to Robot-assisted Gait Rehabilitation'
 date: '2015-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:31.938493Z'
 authors:
 - Jeffrey Skidmore

@@ -1,6 +1,6 @@
 ---title: An EMG-based Robot Control Scheme Robust to Time-varying EMG Signal Features
 date: '2010-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:47.068099Z'
 authors:
 - Panagiotis Artemiadis

@@ -1,6 +1,6 @@
 ---title: On the potential field-based control of the MIT-Skywalker
 date: '2011-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:45.790863Z'
 authors:
 - Panagiotis Artemiadis

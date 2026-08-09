@@ -1,7 +1,7 @@
 ---
 title: Development of a novel shoulder exoskeleton using parallel actuation and slip
 date: '2016-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:28.279103Z'
 authors:
 - Justin Hunt

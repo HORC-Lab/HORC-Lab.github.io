@@ -1,6 +1,6 @@
 ---title: A Systematic Method for Outlier Detection in Human Gait Data
 date: '2022-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:17.869590Z'
 authors:
 - Bradley Hobbs

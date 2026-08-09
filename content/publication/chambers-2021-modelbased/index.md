@@ -1,7 +1,7 @@
 ---title: 'A Model-Based Analysis of Supraspinal Mechanisms of Inter-Leg Coordination
   in Human Gait: Toward Model-Informed Robot-Assisted Rehabilitation'
 date: '2021-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:19.846836Z'
 authors:
 - Vaughn Chambers

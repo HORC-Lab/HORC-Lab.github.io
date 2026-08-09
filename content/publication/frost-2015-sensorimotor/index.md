@@ -1,7 +1,7 @@
 ---title: 'Sensorimotor control of gait: A novel approach for the study of the interplay
   of visual and proprioceptive feedback'
 date: '2015-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:33.316651Z'
 authors:
 - Ryan Frost

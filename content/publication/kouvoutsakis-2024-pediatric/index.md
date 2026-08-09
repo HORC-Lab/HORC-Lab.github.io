@@ -1,7 +1,7 @@
 ---
 title: A Pediatric Motor Training Environment Based on Human-swarm Interactions
 date: '2024-05-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:14.457729Z'
 authors:
 - Georgia Kouvoutsakis

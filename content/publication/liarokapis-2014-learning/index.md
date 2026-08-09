@@ -2,7 +2,7 @@
 title: 'A Learning Scheme for EMG Based Interfaces: On Task Specificity in Motion
   Decoding Domain'
 date: '2014-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:34.411281Z'
 authors:
 - Minas V. Liarokapis

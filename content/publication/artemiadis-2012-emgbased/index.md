@@ -1,6 +1,6 @@
 ---title: 'EMG-based Robot Control Interfaces: Past, Present and Future'
 date: '2012-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:42.076484Z'
 authors:
 - Panagiotis Artemiadis

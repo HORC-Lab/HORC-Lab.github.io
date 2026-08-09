@@ -1,6 +1,6 @@
 ---title: Functional Anthropomorphism for Human to Robot Motion Mapping
 date: '2012-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:42.730589Z'
 authors:
 - Minas Liarokapis

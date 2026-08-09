@@ -1,7 +1,7 @@
 ---title: 'Dynamic Adaptation of Robotic Ankle-Foot Prostheses to Compliant Terrain:
   Reacting to Surface Stiffness Changes in Real-Time'
 date: '2025-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:11.685767Z'
 authors:
 - Charikleia Angelidou

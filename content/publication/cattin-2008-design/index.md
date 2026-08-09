@@ -1,7 +1,7 @@
 ---title: 'Design and Development of a Novel Robotic Platform for Neuro-Robotics Applications:
   the NEURobotics ARM (NEURARM)'
 date: '2008-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:49.982164Z'
 authors:
 - Emanuele Cattin

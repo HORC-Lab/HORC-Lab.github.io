@@ -1,7 +1,7 @@
 ---title: 'Quantifying Human Trust in Controlling Robot Swarms: EEG-based Analysis and
   Classification'
 date: '2025-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:11.381038Z'
 authors:
 - Jesus Orozco

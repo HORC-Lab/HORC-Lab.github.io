@@ -1,7 +1,7 @@
 ---title: 'Variable Stiffness Treadmill (VST): System Development, Characterization and
   Preliminary Experiments'
 date: '2015-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:33.688285Z'
 authors:
 - Jeffrey Skidmore

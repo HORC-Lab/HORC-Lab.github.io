@@ -1,6 +1,6 @@
 ---title: Pediatric Anklebot
 date: '2011-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:45.065077Z'
 authors:
 - Hermano I. Krebs

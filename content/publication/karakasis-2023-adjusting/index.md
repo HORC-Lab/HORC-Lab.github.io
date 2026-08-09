@@ -1,7 +1,7 @@
 ---title: Adjusting the Quasi-Stiffness of an Ankle-Foot Prosthesis Improves Walking
   Stability during Locomotion over Compliant Terrain
 date: '2023-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:16.036836Z'
 authors:
 - Chrysostomos Karakasis

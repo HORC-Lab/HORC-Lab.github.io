@@ -1,6 +1,6 @@
 ---title: User-independent hand motion classification with electromyography
 date: '2013-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:39.710944Z'
 authors:
 - Alison Gibson

@@ -2,7 +2,7 @@
   towards novel methods and metrics of mutual adaptation between humans and machines
   for BCI'
 date: '2019-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:22.113406Z'
 authors:
 - Chuong H. Nguyen

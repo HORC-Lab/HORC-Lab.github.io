@@ -1,6 +1,6 @@
 ---title: Modeling Anthropomorphism in Dynamic Human Arm Movements
 date: '2010-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:48.368644Z'
 authors:
 - Pantelis T. Katsiaris

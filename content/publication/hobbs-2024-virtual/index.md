@@ -1,7 +1,7 @@
 ---title: Virtual Reality-based Robot-Assisted Method for Gait Training Showing Retention
   of Anticipatory Motor Responses
 date: '2024-09-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:14.143990Z'
 authors:
 - Bradley Hobbs

@@ -1,7 +1,7 @@
 ---title: Effects of Transcutaneous Electric Nerve Stimulation on Upper Extremity Proprioceptive
   Function
 date: '2020-07-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:20.830842Z'
 authors:
 - Andrew Levitsky

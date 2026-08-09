@@ -1,7 +1,7 @@
 ---title: 'Task Discrimination from Myoelectric Activity: A Learning Scheme for EMG based
   Interfaces'
 date: '2013-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:41.019454Z'
 authors:
 - Minas V. Liarokapis

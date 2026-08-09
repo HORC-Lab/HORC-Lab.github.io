@@ -2,7 +2,7 @@
 title: A Human-in-the-loop Algorithm for Predicting Surface Transitions in Robotic
   Lower Limb Prosthetics
 date: '2025-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:10.424741Z'
 authors:
 - Charikleia Angelidou

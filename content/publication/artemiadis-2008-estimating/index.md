@@ -1,6 +1,6 @@
 ---title: 'Estimating Arm Motion and Force using EMG signals: On the Control of Exoskeletons'
 date: '2008-09-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:50.639419Z'
 authors:
 - Panagiotis Artemiadis

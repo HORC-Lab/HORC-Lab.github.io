@@ -1,7 +1,7 @@
 ---title: Quantifying Kinematic Adaptations of Gait During Walking on Terrains of Varying
   Surface Compliance
 date: '2020-11-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:20.496394Z'
 authors:
 - Lynsey Lehmann

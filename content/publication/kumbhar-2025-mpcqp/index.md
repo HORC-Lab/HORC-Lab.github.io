@@ -1,7 +1,7 @@
 ---title: MPC-QP-based Control Framework for Compliant Behavior of Humanoid Robots in
   Physical Collaboration with Humans
 date: '2025-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:12.300499Z'
 authors:
 - Shubham Kumbhar

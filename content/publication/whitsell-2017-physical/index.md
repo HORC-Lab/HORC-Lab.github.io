@@ -1,6 +1,6 @@
 ---title: Physical Human--Robot Interaction (pHRI) in 6 DOF With Asymmetric Cooperation
 date: '2017-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:25.827433Z'
 authors:
 - Bryan Whitsell

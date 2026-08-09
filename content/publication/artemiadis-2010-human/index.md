@@ -1,6 +1,6 @@
 ---title: 'Human Arm Impedance: Characterization and Modeling in 3D Space'
 date: '2010-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:48.682839Z'
 authors:
 - Panagiotis Artemiadis

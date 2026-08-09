@@ -1,7 +1,7 @@
 ---title: 'Toward Seamless Physical Human-Humanoid Interaction: Insights from Control,
   Intent, and Modeling with a Vision for What Comes Next'
 date: '2026-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:09.465762Z'
 authors:
 - Gustavo A. Cardona

@@ -1,6 +1,6 @@
 ---title: On the Control of Human-Robot Bi-manual Manipulation
 date: '2015-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:31.609059Z'
 authors:
 - Stephen Warren

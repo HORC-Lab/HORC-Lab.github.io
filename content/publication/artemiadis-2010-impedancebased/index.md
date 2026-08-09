@@ -1,6 +1,6 @@
 ---title: Impedance-based control of the MIT-Skywalker
 date: '2010-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:48.994753Z'
 authors:
 - Panagiotis Artemiadis

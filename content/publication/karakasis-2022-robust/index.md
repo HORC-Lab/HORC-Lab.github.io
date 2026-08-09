@@ -1,7 +1,7 @@
 ---title: 'Robust Dynamic Walking for a 3D Dual-SLIP Model under One-Step Unilateral
   Stiffness Perturbations: Towards Bipedal Locomotion over Compliant Terrain'
 date: '2022-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:18.167921Z'
 authors:
 - Chrysostomos Karakasis

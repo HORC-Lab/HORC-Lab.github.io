@@ -1,7 +1,7 @@
 ---title: 'Navigation Functions Learning from Experiments: Application to Anthropomorphic
   Grasping'
 date: '2012-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:43.714779Z'
 authors:
 - Ioannis Filippidis

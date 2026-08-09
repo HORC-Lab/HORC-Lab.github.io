@@ -1,7 +1,7 @@
 ---title: Assessment of Muscle Fatigue using a Probabilistic Framework for an EMG-based
   Robot Control Scenario
 date: '2008-10-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:50.325962Z'
 authors:
 - Panagiotis Artemiadis

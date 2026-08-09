@@ -1,7 +1,7 @@
 ---title: Simultaneous Myoelectric Control of a Robot Arm using Muscle Synergy-Inspired
   Inputs from High-Density Electrode Grids
 date: '2015-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:32.290336Z'
 authors:
 - Mark Ison

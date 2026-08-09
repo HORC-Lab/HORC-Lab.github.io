@@ -1,6 +1,6 @@
 ---title: On the control of the MIT-Skywalker
 date: '2010-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:48.049550Z'
 authors:
 - Panagiotis Artemiadis

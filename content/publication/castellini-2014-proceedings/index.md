@@ -1,7 +1,7 @@
 ---title: 'Proceedings of the first workshop on Peripheral Machine Interfaces: Going
   beyond traditional surface electromyography'
 date: '2014-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:35.045833Z'
 authors:
 - Claudio Castellini

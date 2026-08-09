@@ -2,7 +2,7 @@
   in Gait Using the Variable Stiffness Treadmill: Physiological Insights for Improved
   Robot-Assisted Gait Therapy'
 date: '2019-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:22.730599Z'
 authors:
 - Jeffrey Skidmore

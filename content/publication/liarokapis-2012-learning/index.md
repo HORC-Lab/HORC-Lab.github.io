@@ -1,7 +1,7 @@
 ---title: 'Learning Task-Specific Models for Reach to Grasp Movements: Towards EMG-Based
   Teleoperation of Robotic Arm-Hand Systems'
 date: '2012-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:43.062103Z'
 authors:
 - Minas Liarokapis

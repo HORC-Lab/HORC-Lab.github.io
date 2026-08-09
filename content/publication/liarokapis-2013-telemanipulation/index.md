@@ -1,7 +1,7 @@
 ---title: Telemanipulation with the DLR/HIT II Robot Hand Using a Dataglove and a Low
   Cost Force Feedback Device
 date: '2013-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:40.376188Z'
 authors:
 - Minas V. Liarokapis

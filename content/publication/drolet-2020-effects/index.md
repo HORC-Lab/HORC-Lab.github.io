@@ -1,7 +1,7 @@
 ---title: 'On the Effects of Visual Anticipation of Floor Compliance Changes on Human
   Gait: Towards Model-based Robot-Assisted Rehabilitation'
 date: '2020-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:21.808067Z'
 authors:
 - Michael Drolet

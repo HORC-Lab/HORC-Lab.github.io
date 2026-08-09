@@ -1,7 +1,7 @@
 ---title: 'Proportional Myoelectric Control of Robots: Muscle Synergy Development drives
   Performance Enhancement, Retainment, and Generalization'
 date: '2015-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:32.972870Z'
 authors:
 - Mark Ison

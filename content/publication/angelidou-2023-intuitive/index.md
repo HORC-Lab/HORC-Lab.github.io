@@ -1,7 +1,7 @@
 ---title: 'On Intuitive Control of Ankle-Foot Prostheses: A Sensor Fusion-based Algorithm
   for Real-Time Prediction of Transitions to Compliant Surfaces'
 date: '2023-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:15.733454Z'
 authors:
 - Charikleia Angelidou

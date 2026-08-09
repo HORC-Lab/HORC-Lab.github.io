@@ -1,7 +1,7 @@
 ---title: Description, characterization and assessment of a bio-inspired shoulder joint-first
   link robot for neuro-robotic applications
 date: '2006-02-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:53.629471Z'
 authors:
 - I. Sardellitti

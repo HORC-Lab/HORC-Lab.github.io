@@ -1,6 +1,6 @@
 ---title: Deriving Humanlike Arm Hand System Poses
 date: '2017-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:27.619219Z'
 authors:
 - Minas Liarokapis

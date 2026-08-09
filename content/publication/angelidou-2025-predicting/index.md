@@ -1,7 +1,7 @@
 ---title: 'On Predicting Transitions to Compliant Surfaces in Adults with Transtibial
   Amputation: A Real-Time Classification Approach'
 date: '2025-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:11.078781Z'
 authors:
 - Charikleia Angelidou

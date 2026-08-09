@@ -1,7 +1,7 @@
 ---title: An Energy-based Framework for Robust Dynamic Bipedal Walking over Compliant
   Terrain
 date: '2024-03-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:15.087841Z'
 authors:
 - Chrysostomos Karakasis

@@ -1,7 +1,7 @@
 ---title: 'Sudden changes in walking surface compliance evoke contralateral EMG in a
   hemiparetic walker: a case study of inter-leg coordination after neurological injury'
 date: '2016-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:28.598738Z'
 authors:
 - Jeffrey Skidmore

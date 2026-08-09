@@ -1,7 +1,7 @@
 ---title: Closed-Form Inverse Kinematic Solution for Anthropomorphic Motion in Redundant
   Robot Arms
 date: '2013-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:38.707375Z'
 authors:
 - Yuting Wang

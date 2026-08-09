@@ -1,7 +1,7 @@
 ---
 title: Effective Neural Representations for Brain-Mediated Human-Robot Interactions
 date: '2014-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:34.732533Z'
 authors:
 - Christopher A. Buneo

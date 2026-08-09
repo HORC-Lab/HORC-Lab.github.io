@@ -1,7 +1,7 @@
 ---title: Interlimb coordination evoked by unilateral mechanical perturbation during
   body-weight supported gait
 date: '2011-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:45.429054Z'
 authors:
 - Panagiotis Artemiadis

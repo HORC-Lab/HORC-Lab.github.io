@@ -1,6 +1,6 @@
 ---title: A Bio-inspired Filtering Framework for the EMG-based Control of Robots
 date: '2009-06-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:49.313472Z'
 authors:
 - Panagiotis Artemiadis

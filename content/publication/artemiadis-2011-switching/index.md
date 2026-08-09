@@ -1,6 +1,6 @@
 ---title: A Switching Regime Model for the EMG-based Control of a Robot Arm
 date: '2011-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:44.356850Z'
 authors:
 - Panagiotis Artemiadis

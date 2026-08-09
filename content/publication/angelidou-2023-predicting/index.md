@@ -1,7 +1,7 @@
 ---title: On Predicting Transitions to Compliant Surfaces in Human Gait via Neural and
   Kinematic Signals
 date: '2023-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:16.376612Z'
 authors:
 - Charikleia Angelidou

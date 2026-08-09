@@ -1,7 +1,7 @@
 ---title: 'Variable Stiffness Treadmill (VST): a Novel Tool for the Investigation of
   Gait'
 date: '2014-01-01'
-draft: true
+draft: false
 publishDate: '2026-08-08T20:37:38.382376Z'
 authors:
 - Andrew Barkan
