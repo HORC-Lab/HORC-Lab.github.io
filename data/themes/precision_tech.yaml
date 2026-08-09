@@ -1,0 +1,12 @@
+# Custom Hugo Blox Theme: Precision Tech & Healthcare
+name: precision_tech
+
+# Primary accent color (buttons, links, active states)
+primary: '#0284C7'
+
+# Light mode background and text colors
+background: '#F8FAFC'
+home_section_bg_light: '#F8FAFC'
+
+# Dark mode background and text colors
+home_section_bg_dark: '#0F172A'

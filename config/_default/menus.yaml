@@ -3,25 +3,24 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+# Navigation Menus
 main:
-  - name: Bio
-    url: /
+  - name: Research
+    url: '/'
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
-  - name: Experience
-    url: experience/
+
+  - name: Publications
+    url: 'publication/'
     weight: 20
-  - name: Projects
-    url: projects/
+
+  - name: People
+    url: 'people/'
     weight: 30
-  - name: Courses
-    url: courses/
+
+  - name: Patents
+    url: 'patents/'
     weight: 40
+
+  - name: Facilities & Equipment
+    url: 'facilities/'
+    weight: 50

@@ -1,0 +1,130 @@
+{{ define "main" }}
+<div class="universal-wrapper py-5">
+  <!-- Title -->
+  <h1 class="mb-3" style="font-size: 2.75rem; font-weight: 800; line-height: 1.2;">{{ .Title }}</h1>
+
+  <!-- Header Info Block -->
+  <div class="publication-header-info mb-4 p-3" style="background-color: var(--hx-color-neutral-100, rgba(255,255,255,0.03)); border-radius: 8px; border: 1px solid var(--hx-color-neutral-200, rgba(255,255,255,0.1)); font-size: 1.05rem; line-height: 1.6;">
+    <div class="mb-2">
+      <strong>Legend:</strong> 
+      <code style="font-size: 1.0em;">[J]</code> journal peer-reviewed paper, 
+      <code style="font-size: 1.0em;">[C]</code> peer-reviewed conference proceedings, 
+      <code style="font-size: 1.0em;">[B]</code> book, 
+      <code style="font-size: 1.0em;">[BC]</code> book chapter, 
+      <code style="font-size: 1.0em;">[A]</code> conference abstract, 
+      <code style="font-size: 1.0em;">[E]</code> editorial article.
+    </div>
+    <div class="mb-2">
+      <strong>Count:</strong> 51 J, 76 C, 6 A, 1 B, 6 BC
+    </div>
+    <div>
+      <a href="https://scholar.google.com/citations?user=tsR6sHUAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener" style="font-weight: 600; text-decoration: underline;">
+        Dr. Artemiadis Google Scholar Profile
+      </a>
+    </div>
+  </div>
+
+  <!-- Publication List -->
+  <div class="publication-list mt-4">
+    {{ $pages := .Pages.ByDate.Reverse }}
+    {{ $total := len $pages }}
+    {{ $currentYear := "" }}
+
+    {{ range $index, $page := $pages }}
+      {{ $pubNum := sub $total $index }}
+      {{ $pageYear := .Date.Format "2006" }}
+
+      <!-- Render Year Subsection Header -->
+      {{ if ne $pageYear $currentYear }}
+        <h2 class="mt-5 mb-3 pb-2" style="border-bottom: 2px solid var(--hx-color-neutral-200, #333);">
+          {{ $pageYear }}
+        </h2>
+        {{ $currentYear = $pageYear }}
+      {{ end }}
+
+      <!-- Map publication_types -->
+      {{ $typeCode := "P" }}
+      {{ $types := .Params.publication_types }}
+      {{ if $types }}
+        {{ $type := index $types 0 }}
+        {{ if or (eq $type "1") (eq $type "paper-conference") }}
+          {{ $typeCode = "C" }}
+        {{ else if or (eq $type "2") (eq $type "article-journal") }}
+          {{ $typeCode = "J" }}
+        {{ else if or (eq $type "3") (eq $type "abstract") }}
+          {{ $typeCode = "A" }}
+        {{ else if or (eq $type "4") (eq $type "editorial") }}
+          {{ $typeCode = "E" }}
+        {{ else if or (eq $type "5") (eq $type "book") }}
+          {{ $typeCode = "B" }}
+        {{ else if or (eq $type "6") (eq $type "chapter") }}
+          {{ $typeCode = "BC" }}
+        {{ end }}
+      {{ end }}
+
+      <div class="pub-row mb-3" style="display: flex; gap: 12px; align-items: baseline; font-size: 1.25rem; line-height: 1.5;">
+        <span class="pub-number" style="font-family: monospace; font-weight: bold; white-space: nowrap;">
+          [{{ $pubNum }}-{{ $typeCode }}]
+        </span>
+
+        <div class="pub-content">
+          {{ if .Params.authors }}
+            {{ delimit .Params.authors ", " " and " }},
+          {{ end }}
+
+          “{{ .Title }},”
+
+          {{ if .Params.publication }}
+            {{ if reflect.IsMap .Params.publication }}
+              <em>{{ .Params.publication.name | markdownify }}</em>,
+            {{ else }}
+              <em>{{ .Params.publication | markdownify }}</em>,
+            {{ end }}
+          {{ end }}
+
+          {{ .Date.Format "2006" }}.
+
+          <span class="pub-action-links" style="margin-left: 6px;">
+            {{ $pdfResource := .Resources.GetMatch "paper.pdf" }}
+            {{ if $pdfResource }}
+              <a href="{{ $pdfResource.RelPermalink }}" target="_blank" rel="noopener" style="font-weight: 600;">[pdf]</a>
+            {{ else if .Params.url_pdf }}
+              <a href="{{ .Params.url_pdf }}" target="_blank" rel="noopener" style="font-weight: 600;">[pdf]</a>
+            {{ end }}
+
+            {{ $citeResource := .Resources.GetMatch "cite.bib" }}
+            {{ if $citeResource }}
+              <a href="{{ $citeResource.RelPermalink }}" download style="font-weight: 600; margin-left: 4px;">[bibtex]</a>
+            {{ end }}
+          </span>
+
+          {{ with .Params.note }}
+            <span class="pub-note" style="font-size: 1.05rem; color: #d97706; font-weight: 600; margin-left: 8px;">
+            [{{ . | markdownify }}]
+            </span>
+          {{ end }}
+
+          {{ with .Params.award }}
+            <span class="pub-award" style="font-size: 1.05rem; color: #b91c1c; font-weight: 600; margin-left: 8px;">
+              🏆 {{ . }}
+            </span>
+          {{ end }}
+          {{ with .Params.awards }}
+            <span class="pub-award" style="font-size: 1.05rem; color: #b91c1c; font-weight: 600; margin-left: 8px;">
+              🏆 {{ . }}
+            </span>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+  <!-- Bottom Content from content/publication/_index.md -->
+  {{ if .Content }}
+    <div class="publication-footer-content mt-5 pt-4" style="border-top: 1px solid var(--hx-color-neutral-200, rgba(255,255,255,0.1));">
+      {{ .Content }}
+    </div>
+  {{ end }}
+</div>
+{{ end }}
+

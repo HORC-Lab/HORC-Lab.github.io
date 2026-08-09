@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
+title: 'HUMAN-ORIENTED ROBOTICS AND CONTROL LAB'
 # Website URL
 baseURL: 'https://horc-lab.github.io/'
 
@@ -63,3 +63,7 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+ignoreLogs:
+  - 'pub-legacy-.*'
+  - 'url_pdf-.*'

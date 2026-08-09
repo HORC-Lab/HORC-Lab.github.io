@@ -1,0 +1,31 @@
+/* Increase site title font size in navbar */
+header nav a span,
+header nav a:first-of-type,
+header .navbar-brand {
+  font-size: 1.35rem !important; /* Change to 1.5rem or 24px if you want it larger */
+  font-weight: 700 !important;   /* Makes the text bold */
+  letter-spacing: 0.5px !important;
+}
+
+/* Widen main content blocks across the homepage */
+section .container,
+section .max-w-prose,
+section .prose {
+  max-width: 1200px !important; /* Adjust up to 1200px if you want it wider */
+}
+
+/* Increase font size for Portfolio / Project Card Titles */
+.card-title,
+.project-card h3 {
+  font-size: 2.5rem !important;
+  font-weight: 700 !important;
+  line-height: 1.3;
+}
+
+/* Increase font size for Project Card Summaries */
+.card-text,
+.project-card p,
+.article-metadata + .article-style {
+  font-size: 1.15rem !important;
+  line-height: 1.5 !important;
+}

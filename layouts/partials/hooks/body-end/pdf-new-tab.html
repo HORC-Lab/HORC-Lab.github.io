@@ -1,0 +1,11 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const pdfLinks = document.querySelectorAll(
+      'a[href*=".pdf"], a[href*="/pdf/"], a[href*="/papers/"]'
+    );
+    pdfLinks.forEach(function (link) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    });
+  });
+</script>

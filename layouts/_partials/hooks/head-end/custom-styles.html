@@ -1,0 +1,208 @@
+<style>
+  /* =========================================================
+     1. RESEARCH & HOMEPAGE PROJECT CARDS (2 PER ROW GRID)
+     ========================================================= */
+
+  /* Force 2-column grid layout on the project card section */
+  #projects .row,
+  #projects [class*="container"] > div {
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 1.5rem !important;
+  }
+
+  /* Force each card to span 100% of its grid cell */
+  #projects [class*="col-"],
+  #projects .isotope-item,
+  #projects .project-card,
+  #projects .card-simple {
+    width: 100% !important;
+    max-width: 100% !important;
+    flex: 0 0 100% !important;
+    margin-left: 0 !important;
+  }
+
+  /* Project Card Titles (Bigger Font) */
+  #projects .article-title,
+  #projects .card-simple h3,
+  #projects .card-title,
+  #projects h3,
+  #projects h3 a {
+    font-size: 1.5rem !important;
+    font-weight: 700 !important;
+    line-height: 1.25 !important;
+    margin-bottom: 0.5rem !important;
+  }
+
+  /* Project Card Summaries (Clamped to 3 Lines) */
+  #projects .article-style,
+  #projects .card-simple .article-style,
+  #projects .card-text,
+  #projects p {
+    font-size: 1.1rem !important;
+    line-height: 1.45 !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 3 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* Eliminate Extra Bottom Whitespace for Links & Metadata */
+  #projects .btn-links,
+  #projects .article-metadata,
+  #projects .project-links,
+  #projects .card-text + div {
+    margin-top: 0.4rem !important;
+    padding-top: 0 !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+
+  #projects .btn-links:empty,
+  #projects .article-metadata:empty {
+    display: none !important;
+  }
+
+  #projects .card-body,
+  #projects .card-simple,
+  #projects .article-card {
+    padding-bottom: 1rem !important;
+  }
+
+
+  /* =========================================================
+     2. FEATURED HEADER IMAGES
+     ========================================================= */
+
+  .article-header .featured-image-wrapper,
+  .article-header,
+  .page-header {
+    text-align: center !important;
+  }
+
+  .article-header img,
+  .featured-image-wrapper img,
+  .page-header img {
+    max-height: 280px !important;
+    max-width: 550px !important;
+    width: auto !important;
+    height: auto !important;
+    margin: 0 auto 1.5rem auto !important;
+    display: block !important;
+    border-radius: 8px !important;
+    object-fit: cover !important;
+  }
+
+
+  /* =========================================================
+     3. PROJECT & DOC SINGLE PAGES ONLY (Removes Left Sidebar/Gap)
+     ========================================================= */
+
+  /* Hide left tree navigation sidebar on individual detail pages */
+  .docs-sidebar,
+  aside.docs-sidebar,
+  .td-sidebar,
+  nav.docs-links,
+  aside:first-of-type:not(.toc-sidebar) {
+    display: none !important;
+    width: 0 !important;
+    max-width: 0 !important;
+    flex: 0 0 0% !important;
+  }
+
+  /* Single-page wrapper expansion */
+  .docs-page,
+  body.type-docs .container-fluid,
+  body.page-type-project .container,
+  body.type-project .container {
+    max-width: 1400px !important;
+    width: 95% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  /* Single Page Main Content Column (76% width) */
+  .docs-content main,
+  .article-container .col-lg-8,
+  .article-container .col-xl-8,
+  .page-body .col-lg-8 {
+    flex: 0 0 76% !important;
+    max-width: 76% !important;
+    width: 76% !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+  }
+
+  /* Single Page Right TOC Sidebar ("On this page") */
+  .toc-sidebar,
+  .docs-toc,
+  aside.toc-sidebar,
+  .article-container .col-lg-3,
+  .article-container .col-xl-2 {
+    flex: 0 0 20% !important;
+    max-width: 20% !important;
+    width: 20% !important;
+    margin-left: auto !important;
+  }
+
+  /* Remove Bootstrap offset margins on single page articles */
+  .article-container [class*="offset-"],
+  .docs-content [class*="offset-"] {
+    margin-left: 0 !important;
+  }
+</style>
+
+
+<style>
+  /* 1. TOP LEGEND & FILTERS (Search box, Dropdowns, Category Buttons) */
+  .pub-filters,
+  .pub-filters label,
+  .pub-filters select,
+  .pub-filters input,
+  .pub-filters .nav-link,
+  .pub-filters-select,
+  .form-control-sm {
+    font-size: 1.15rem !important;
+  }
+
+  .pub-filters select,
+  .pub-filters input {
+    height: auto !important;
+    padding: 6px 12px !important;
+  }
+
+  /* 2. PUBLICATION LIST ENTRIES */
+  /* Main entry text & line height */
+  .pub-list-item {
+    font-size: 1.1rem !important;
+    line-height: 1.6 !important;
+  }
+
+  /* Publication Titles */
+  .pub-list-item .article-title,
+  .pub-list-item h2,
+  .pub-list-item h3 {
+    font-size: 1.35rem !important;
+    font-weight: 600 !important;
+  }
+
+  /* Authors & Venue / Journal Details */
+  .pub-list-item .article-metadata,
+  .pub-list-item .stream-meta,
+  .pub-list-item .article-style {
+    font-size: 1.05rem !important;
+  }
+
+  /* Action Buttons ([PDF], [Cite], etc.) */
+  .pub-list-item .btn,
+  .pub-list-item .btn-links .btn {
+    font-size: 0.95rem !important;
+    padding: 6px 12px !important;
+  }
+</style>
+
