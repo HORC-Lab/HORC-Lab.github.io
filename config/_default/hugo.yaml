@@ -26,6 +26,9 @@ cascade:
       path: /slides/**
       kind: page
     outputs: [HTML, present]
+  - _target:
+      path: "/**"
+    share: false
 
 ############################
 ## ADVANCED

@@ -1,5 +1,5 @@
 ---
-title: 'HUMAN ORIENTED ROBOTICS AND CONTROL (HORC) LAB'
+title: 'Research'
 summary: ''
 date: 2026-01-01
 type: landing
@@ -45,7 +45,7 @@ sections:
         <h2 style="margin-top: 0; font-size: 1.8rem; font-weight: 700;">Human-Oriented Robotics and Control Lab</h2>
         <p>Our research at the <strong style="color: #F97316;">interface of humans and robots</strong> is answering complex questions about the fundamentals of merging machine and human capabilities.</p>
         <p>The mission of the HORC Lab is to improve the quality of life and work by developing and controlling robotic devices that <strong style="color: #F97316;">physically and cognitively interact and collaborate with humans</strong>.</p>
-        <p>This interaction can be found in devices that assist and augment human capabilities, as well as provide motor rehabilitation therapy to impaired individuals.</p>
+        <p>Key applications of our work center on physical and cognitive human augmentation, smart prosthetics, and adaptive robotic devices that deliver effective motor rehabilitation for individuals with mobility challenges.</p>
         </div>
 
         </div>
@@ -190,23 +190,23 @@ sections:
     content:
       title: Contact Us
       text: |
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; width: 100%; align-items: stretch;">
+        <div style="display: flex; flex-direction: column; align-items: center; gap: 1.25rem; width: 100%;">
 
-        <!-- Left Card: Locations -->
-        <div style="background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 1.5rem 1.25rem;">
+        <!-- Top Card: Locations -->
+        <div style="background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 1.5rem 1.25rem; max-width: 650px; width: 100%; box-sizing: border-box;">
         <h3 style="margin: 0 0 0.85rem 0; font-size: 1.45rem; font-weight: 700; color: #0284C7; line-height: 1.2;">Lab Locations - University of Delaware</h3>
-        <p style="margin: 0 0 0.65rem 0; font-size: 1.12rem; line-height: 1.35; white-space: nowrap;"><strong>Main Lab:</strong> 206 Spencer Lab, Newark, DE 19716</p>
-        <p style="margin: 0; font-size: 1.12rem; line-height: 1.35; white-space: nowrap;"><strong>STAR Campus:</strong> 116 STAR Health Sciences Complex, Newark, DE 19716</p>
+        <p style="margin: 0 0 0.65rem 0; font-size: 1.12rem; line-height: 1.35;"><strong>Main Lab:</strong> 206 Spencer Lab, Newark, DE 19716</p>
+        <p style="margin: 0; font-size: 1.12rem; line-height: 1.35;"><strong>STAR Campus:</strong> 116 STAR Health Sciences Complex, Newark, DE 19716</p>
         </div>
 
-        <!-- Right Card: Leadership & Contact -->
-        <div style="background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 1.5rem 1.25rem;">
+        <!-- Bottom Card: Leadership & Contact -->
+        <div style="background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 1.5rem 1.25rem; max-width: 650px; width: 100%; box-sizing: border-box;">
         <h3 style="margin: 0 0 0.85rem 0; font-size: 1.45rem; font-weight: 700; color: #0284C7; line-height: 1.2;">Lab Leadership</h3>
-        <p style="margin: 0 0 0.65rem 0; font-size: 1.12rem; line-height: 1.35; white-space: nowrap;"><strong>Director:</strong> Dr. Panos Artemiadis (Office: 331 Spencer Lab)</p>
-        <p style="margin: 0; font-size: 1.12rem; line-height: 1.35; white-space: nowrap;"><strong>Email:</strong> <a href="mailto:partem@udel.edu" style="color: #0284C7; text-decoration: underline;">partem@udel.edu</a> &nbsp;|&nbsp; <strong>Phone:</strong> (302) 831-8546</p>
+        <p style="margin: 0 0 0.65rem 0; font-size: 1.12rem; line-height: 1.35;"><strong>Director:</strong> Dr. Panos Artemiadis (Office: 331 Spencer Lab)</p>
+        <p style="margin: 0 0 0.65rem 0; font-size: 1.12rem; line-height: 1.35;"><strong>Email:</strong> <a href="mailto:partem@udel.edu" style="color: #0284C7; text-decoration: underline;">partem@udel.edu</a> &nbsp;|&nbsp; <strong>Phone:</strong> (302) 831-8546</p>
+        <p style="margin: 0; font-size: 1.12rem; line-height: 1.35;"><strong>Mailing address:</strong> 130 Academy Street, 126 Spencer Lab, Newark, DE 19716</p>
         </div>
 
-        </div>
     design:
       columns: '1'
 ---

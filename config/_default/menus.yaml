@@ -24,3 +24,8 @@ main:
   - name: Facilities & Equipment
     url: 'facilities/'
     weight: 50
+  
+  - name: Join Us
+    url: 'joinus/'
+    weight: 60
+  

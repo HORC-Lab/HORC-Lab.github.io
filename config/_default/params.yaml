@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "HUMAN-ORIENTED ROBOTICS AND CONTROL LAB"
+    name: "HORC LAB"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
@@ -24,7 +24,7 @@ hugoblox:
     description: "HUMAN-ORIENTED ROBOTICS AND CONTROL LAB"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -192,6 +192,7 @@ hugoblox:
     # Academic citations
     citations:
       style: apa # apa | mla | chicago | ieee
+    sharing: false
 
   # ────────────────────────────────────────────────────────────────────────────
   # SEARCH
