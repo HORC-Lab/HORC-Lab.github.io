@@ -181,6 +181,20 @@ summary: "Lab Director, researchers, graduate students, and alumni of HORC Lab."
   </div>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 10px; padding: 1.25rem; margin-bottom: 1.5rem; align-items: flex-start;">
+  <img src="/media/Greenplate.jpg" alt="Grace Greenplate" style="width: 225px; height: 300px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
+  <div style="flex: 1; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 0.25rem; font-size: 1.25rem; color: #ffffff;">Grace Greenplate</h3>
+    <p style="color: #F97316; font-weight: bold; margin-bottom: 0.75rem; font-size: 0.95rem;">Undergraduate Student — Biomedical Engineering</p>
+    <p style="font-size: 1.05rem; line-height: 1.6; opacity: 0.85; margin-bottom: 1rem;">
+      Grace Greenplate is pursuing her B.S. in Biomedical Engineering with a minor in Biomechanics at the University of Delaware. She plans to pursue a master’s degree in Robotics, with a focus on prosthetic and assistive devices.
+    </p>
+    <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.9rem;">
+      <a href="mailto:gracehg@udel.edu" style="color: #38BDF8; text-decoration: underline;">📧 Email</a>
+    </div>
+  </div>
+</div>
+
 ---
 ## Lab Alumni
 
