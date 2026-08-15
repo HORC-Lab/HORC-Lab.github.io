@@ -27,9 +27,9 @@ This project develops advanced control frameworks for humanoid robots that enabl
 ---
 
 ## Key Contributions
-* <strong style="color: #F97316;">Hybrid MPC & Admittance Control Framework:</strong> Integrated Model Predictive Control with an admittance control model to dynamically adapt bipedal behavior in response to real-time interaction forces..
+* <strong style="color: #F97316;">Hybrid MPC & Admittance Control Framework:</strong> Integrated Model Predictive Control with an admittance control model to dynamically adapt bipedal behavior in response to real-time interaction forces.
 * <strong style="color: #F97316;">Novel I-LIP Modeling:</strong> Formulated the Interaction Linear Inverted Pendulum (I-LIP) model to generate adaptive footstep patterns for physical co-manipulation tasks.
-* <strong style="color: #F97316;">Coupled Stability and Compliance:</strong> Achieved simultaneous bipedal balance and compliant behavior during physical human-robot collaboration..
+* <strong style="color: #F97316;">Coupled Stability and Compliance:</strong> Achieved simultaneous bipedal balance and compliant behavior during physical human-robot collaboration.
 
 ---
 
