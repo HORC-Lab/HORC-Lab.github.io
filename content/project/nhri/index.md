@@ -7,6 +7,7 @@ weight: 5
 profile: false
 authors: []
 share: false
+show_date: false
 
 # Front matter buttons at the top of the page
 # links:

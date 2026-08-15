@@ -4,7 +4,7 @@ type: page
 summary: "Lab Director, researchers, graduate students, and alumni of HORC Lab."
 ---
 
-## Lab Director
+## Lab Director 
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 10px; padding: 1.5rem; margin-bottom: 2rem; align-items: flex-start;">
   <img src="/media/Artemiadis.jpg" alt="Panos Artemiadis" style="width: 225px; height: 300px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
@@ -64,7 +64,7 @@ summary: "Lab Director, researchers, graduate students, and alumni of HORC Lab."
     <h3 style="margin-top: 0; margin-bottom: 0.25rem; font-size: 1.25rem; color: #ffffff;">Stergios E. Bachoumas</h3>
     <p style="color: #38BDF8; font-weight: bold; margin-bottom: 0.75rem; font-size: 0.95rem;">Ph.D. Student — Mechanical Engineering</p>
     <p style="font-size: 1.05rem; line-height: 1.6; opacity: 0.85; margin-bottom: 1rem;">
-      Stergios E. Bachoumas received his Diploma in Naval Architecture and Marine Engineering from the National Technical University of Athens (NTUA) in 2019. His research focuses on applying deep reinforcement learning techniques to identify hierarchical structures in swarm robotic systems using interactions.
+      Stergios E. Bachoumas received his Diploma in Naval Architecture and Marine Engineering from the National Technical University of Athens (NTUA) in 2019 and his M.S. in Robotics from the University of Delaware in 2025. His research focuses on enhancing the physical intelligence of autonomous robots. His work enables diverse robotic systems to perform complex tasks, ranging from using an autonomous ground vehicle as a probing agent for swarm leader identification to developing a whole-body loco-manipulation controller for quadruped robots.
     </p>
     <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.9rem;">
       <a href="mailto:stevbach@udel.edu" style="color: #38BDF8; text-decoration: underline;">📧 Email</a>
@@ -96,6 +96,8 @@ summary: "Lab Director, researchers, graduate students, and alumni of HORC Lab."
     </p>
     <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.9rem;">
       <a href="mailto:jmwitt@udel.edu" style="color: #38BDF8; text-decoration: underline;">📧 Email</a>
+      <a href="/files/JWitt_CV_2026.pdf" style="color: #38BDF8; text-decoration: underline;">📄 Download CV</a>
+      <a href="https://www.linkedin.com/in/jordan-witt-049716208/" target="_blank" style="color: #38BDF8; text-decoration: underline;"> 🔗 LinkedIn</a>
     </div>
   </div>
 </div>
@@ -106,10 +108,25 @@ summary: "Lab Director, researchers, graduate students, and alumni of HORC Lab."
     <h3 style="margin-top: 0; margin-bottom: 0.25rem; font-size: 1.25rem; color: #ffffff;">Weston Brousseau</h3>
     <p style="color: #38BDF8; font-weight: bold; margin-bottom: 0.75rem; font-size: 0.95rem;">Ph.D. Student — Mechanical Engineering</p>
     <p style="font-size: 1.05rem; line-height: 1.6; opacity: 0.85; margin-bottom: 1rem;">
-      Weston Brosseau received a B.S. in Mechanical Engineering in 2021 from Rensselaer Polytechnic Institute. His research focuses on the use of robotics for chemistry experiments.
+      Weston Brousseau received his B.S. in Mechanical Engineering from Rensselaer Polytechnic Institute in 2021. He is currently pursuing a Ph.D. in Mechanical Engineering. His research is focused on coordinating multi-agent systems with formal methods and temporal logic, with a focus on laboratory automation.
     </p>
     <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.9rem;">
       <a href="mailto:westwas@udel.edu" style="color: #38BDF8; text-decoration: underline;">📧 Email</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 10px; padding: 1.25rem; margin-bottom: 1.5rem; align-items: flex-start;">
+  <img src="/media/Ekansh.jpg" alt="Udit Ekansh" style="width: 225px; height: 300px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
+  <div style="flex: 1; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 0.25rem; font-size: 1.25rem; color: #ffffff;">Udit Ekansh</h3>
+    <p style="color: #38BDF8; font-weight: bold; margin-bottom: 0.75rem; font-size: 0.95rem;">Ph.D. Student — Mechanical Engineering</p>
+    <p style="font-size: 1.05rem; line-height: 1.6; opacity: 0.85; margin-bottom: 1rem;">
+      Udit Ekansh received his B.Tech. in Mechanical Engineering with a specialization in Mechatronics from MIT Art, Design and Technology University in India and his M.S. in Autonomy from Purdue University. He previously worked as a Research Assistant at the Indian Institute of Technology Bombay, where his research focused on planning and control for autonomous underwater navigation. His PhD is focused on advanced control methods for lower-limb prosthetic systems.
+    </p>
+    <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.9rem;">
+      <a href="mailto:uekansh@udel.edu" style="color: #38BDF8; text-decoration: underline;">📧 Email</a>
+      <a href="https://udit176.github.io/" target="_blank" style="color: #38BDF8; text-decoration: underline;"> 🔗 Personal Webpage</a>
     </div>
   </div>
 </div>
@@ -125,10 +142,41 @@ summary: "Lab Director, researchers, graduate students, and alumni of HORC Lab."
     <h3 style="margin-top: 0; margin-bottom: 0.25rem; font-size: 1.25rem; color: #ffffff;">John (Jack) Cahill</h3>
     <p style="color: #F97316; font-weight: bold; margin-bottom: 0.75rem; font-size: 0.95rem;">Master's Student — Robotics</p>
     <p style="font-size: 1.05rem; line-height: 1.6; opacity: 0.85; margin-bottom: 1rem;">
-      Jack Cahill is pursuing his B.S. in Mechanical Engineering with a Minor in Mathematics at the University of Delaware Honors College. He is focusing on human-swarm interaction.
+      John (Jack) Cahill received his Honors B.S. in Mechanical Engineering with a minor in Mathematics from the University of Delaware in 2026 and is currently pursuing an M.S. in Robotics. His research focuses on tactile sensing and physical interaction in robotic systems, with an emphasis on magnetic tactile sensors, force estimation, and quadrupedal robots.
     </p>
     <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.9rem;">
       <a href="mailto:jccahill@udel.edu" style="color: #38BDF8; text-decoration: underline;">📧 Email</a>
+      <a href="https://jackcahill24.github.io/" target="_blank" style="color: #38BDF8; text-decoration: underline;"> 🔗 Engineering Portfolio</a>
+      <a href="https://www.linkedin.com/in/johncahill4493/" target="_blank" style="color: #38BDF8; text-decoration: underline;"> 🔗 LinkedIn</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 10px; padding: 1.25rem; margin-bottom: 1.5rem; align-items: flex-start;">
+  <img src="/media/Simbulan.jpg" alt="Ariane Simbulan" style="width: 225px; height: 300px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
+  <div style="flex: 1; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 0.25rem; font-size: 1.25rem; color: #ffffff;">Ariane Simbulan</h3>
+    <p style="color: #F97316; font-weight: bold; margin-bottom: 0.75rem; font-size: 0.95rem;">Master's Student — Robotics</p>
+    <p style="font-size: 1.05rem; line-height: 1.6; opacity: 0.85; margin-bottom: 1rem;">
+      Ariane Simbulan received her Honors B.S. in Mechanical Engineering with Minors in Mathematics and Computer Science at the University of Delaware in 2026. She is currently pursuing an M.S. in Robotics and her research focuses on the effects of compliant surfaces on gait to improve athletic performance and prevent injury.
+    </p>
+    <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.9rem;">
+      <a href="mailto:elyse@udel.edu" style="color: #38BDF8; text-decoration: underline;">📧 Email</a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 10px; padding: 1.25rem; margin-bottom: 1.5rem; align-items: flex-start;">
+  <img src="/media/Kumar.jpg" alt="Arjun Nanda Kumar" style="width: 225px; height: 300px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
+  <div style="flex: 1; min-width: 280px;">
+    <h3 style="margin-top: 0; margin-bottom: 0.25rem; font-size: 1.25rem; color: #ffffff;">Arjun Nanda Kumar</h3>
+    <p style="color: #F97316; font-weight: bold; margin-bottom: 0.75rem; font-size: 0.95rem;">Master's Student — Robotics</p>
+    <p style="font-size: 1.05rem; line-height: 1.6; opacity: 0.85; margin-bottom: 1rem;">
+      Arjun Nanda Kumar received his Bachelor's in Mechanical Engineering. He is currently working on the perception model for the Agility Digit humanoid robot.
+    </p>
+    <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.9rem;">
+      <a href="mailto:aarjun@udel.edu" style="color: #38BDF8; text-decoration: underline;">📧 Email</a>
+      <a href="https://www.linkedin.com/in/arjunnandakumar/" target="_blank" style="color: #38BDF8; text-decoration: underline;"> 🔗 LinkedIn</a>
     </div>
   </div>
 </div>

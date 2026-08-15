@@ -98,4 +98,16 @@ summary: "Overview of physical research space and specialized robotic hardware a
     </div>
   </div>
 
+<!-- YouTube Channel Banner (Inside Grid) -->
+  <div style="grid-column: 1 / -1; background: rgba(255, 255, 255, 0.04); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 12px; padding: 1.75rem 1.5rem; text-align: center; box-sizing: border-box;">
+    <h3 style="margin-top: 0; color: #ffffff; font-size: 1.35rem; font-weight: 700;">See Our Equipment in Action</h3>
+    <p style="font-size: 1rem; opacity: 0.85; margin: 0.5rem 0 1.25rem 0; line-height: 1.5;">
+      Watch experimental demos, research highlights, and robot testbed experiments on our official YouTube channel.
+    </p>
+    <a href="https://www.youtube.com/@horcasu4198/videos" target="_blank" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #F97316; color: #ffffff; padding: 0.65rem 1.25rem; border-radius: 8px; font-weight: 600; text-decoration: none; font-size: 0.95rem;">
+      <i class="fab fa-youtube" style="font-size: 1.25rem;"></i> Visit HORC Lab YouTube Channel
+    </a>
+  </div>
+
 </div>
+

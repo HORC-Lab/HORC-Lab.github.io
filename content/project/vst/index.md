@@ -7,6 +7,7 @@ weight: 2
 profile: false
 authors: []
 share: false
+show_date: false
 
 # Front matter buttons at the top of the page
 # links:
@@ -21,7 +22,7 @@ share: false
 ---
 
 ## Project Goal
-This project develops a novel post-stroke rehabilitation platform using the Variable Stiffness Treadmill (VST) to deliver targeted unilateral surface perturbations, evoking therapeutic motor responses in the impaired leg to increase step length and reduce drop-foot in mobility impaired.
+This project develops a novel post-stroke rehabilitation platform using the Variable Stiffness Treadmill (VST) to deliver targeted unilateral surface perturbations, evoking therapeutic motor responses in the impaired leg to increase step length and reduce drop-foot in mobility impaired individuals.
 
 ---
 

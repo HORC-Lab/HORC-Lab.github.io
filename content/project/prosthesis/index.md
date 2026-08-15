@@ -7,6 +7,7 @@ weight: 3
 profile: false
 authors: []
 share: false
+show_date: false
 
 # Front matter buttons at the top of the page
 # links:
@@ -26,7 +27,7 @@ This project develops human-in-the-loop adaptive control systems for prosthetic 
 ---
 
 ## Key Contributions
-* <strong style="color: #F97316;">Dynamic Adaptive Control Design:</strong> Developed intelligent prosthetic controllers that dynamically adapt parameters in real time to suit changing surface conditions and individual user needs..
+* <strong style="color: #F97316;">Dynamic Adaptive Control Design:</strong> Developed intelligent prosthetic controllers that dynamically adapt parameters in real time to suit changing surface conditions and individual user needs.
 * <strong style="color: #F97316;">Predictive Surface Transitioning:</strong> Formulated predictive models using neural and kinematic signals to anticipate transitions to compliant terrains during gait, ensuring smooth, uninterrupted locomotion.
 * <strong style="color: #F97316;">Terrain-Adaptive Stiffness Modulation:</strong> Implemented real-time ankle-foot stiffness tuning to enhance user balance, stability, and agility over soft, uneven, or compliant surfaces.
 
