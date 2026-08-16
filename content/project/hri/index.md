@@ -1,5 +1,5 @@
 ---
-title: "Controllers for Compliant and Safe Human-Humanoid Collaboration"
+title: "Controllers for Compliant, Efficient and Safe Human-Humanoid Collaboration"
 summary: "Developing control frameworks for humanoid robots that enable compliant, stable, and coordinated physical interaction during complex human-robot collaboration tasks."
 type: book
 weight: 4
@@ -27,9 +27,11 @@ This project develops advanced control frameworks for humanoid robots that enabl
 ---
 
 ## Key Contributions
+* <strong style="color: #F97316;">Novel I-LIP Modeling & MPC:</strong> Formulated the Interaction Linear Inverted Pendulum (I-LIP) model to generate adaptive footstep patterns for physical co-manipulation tasks.
 * <strong style="color: #F97316;">Hybrid MPC & Admittance Control Framework:</strong> Integrated Model Predictive Control with an admittance control model to dynamically adapt bipedal behavior in response to real-time interaction forces.
-* <strong style="color: #F97316;">Novel I-LIP Modeling:</strong> Formulated the Interaction Linear Inverted Pendulum (I-LIP) model to generate adaptive footstep patterns for physical co-manipulation tasks.
-* <strong style="color: #F97316;">Coupled Stability and Compliance:</strong> Achieved simultaneous bipedal balance and compliant behavior during physical human-robot collaboration.
+* <strong style="color: #F97316;">Coupled Stability and Compliance:</strong> Designed an object-aware Whole Body Controller for the high-level plans of the Digit Humanoid to achieve simultaneous bipedal balance and compliant behavior during physical human-robot collaboration.
+* <strong style="color: #F97316;">Quantitative Collaboration Metric:</strong> Established an efficiency metric to jointly evaluate task performance and inter-agent coordination during dyadic transport.
+* <strong style="color: #F97316;">Full-Scale Experimental Validation:</strong> Demonstrated real-world execution on the Digit humanoid robot, proving that passive compliance enabled diverse dynamic maneuvers (forward motion, lateral shifts, turning) without prior knowledge of the human's trajectory.
 
 ---
 
@@ -43,6 +45,10 @@ This project develops advanced control frameworks for humanoid robots that enabl
     <iframe src="https://www.youtube.com/embed/IWNRkgJ09hc" style="position: absolute; top:0; left:0; width:100%; height:100%; border:0;" allowfullscreen></iframe>
   </div>
 
+  <!-- YouTube Embed 1 -->
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+    <iframe src="https://www.youtube.com/embed/VeCh9ycYWWA" style="position: absolute; top:0; left:0; width:100%; height:100%; border:0;" allowfullscreen></iframe>
+  </div>
 
 </div>
 

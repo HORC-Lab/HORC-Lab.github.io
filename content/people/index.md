@@ -82,6 +82,7 @@ summary: "Lab Director, researchers, graduate students, and alumni of HORC Lab."
     </p>
     <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.9rem;">
       <a href="mailto:shubhamk@udel.edu" style="color: #38BDF8; text-decoration: underline;">📧 Email</a>
+      <a href="https://sites.google.com/view/shubhamkumbhar/home" target="_blank" style="color: #38BDF8; text-decoration: underline;"> 🔗 Personal Webpage</a>
     </div>
   </div>
 </div>
