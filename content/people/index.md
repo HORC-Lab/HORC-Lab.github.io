@@ -44,19 +44,7 @@ summary: "Lab Director, researchers, graduate students, and alumni of HORC Lab."
 
 ## Ph.D. Students
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 10px; padding: 1.25rem; margin-bottom: 1.5rem; align-items: flex-start;">
-  <img src="/media/Angelidou.jpg" alt="Charikleia Angelidou" style="width: 225px; height: 300px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
-  <div style="flex: 1; min-width: 280px;">
-    <h3 style="margin-top: 0; margin-bottom: 0.25rem; font-size: 1.25rem; color: #ffffff;">Charikleia Angelidou</h3>
-    <p style="color: #38BDF8; font-weight: bold; margin-bottom: 0.75rem; font-size: 0.95rem;">Ph.D. Student — Mechanical Engineering</p>
-    <p style="font-size: 1.05rem; line-height: 1.6; opacity: 0.85; margin-bottom: 1rem;">
-      Charikleia Angelidou received her Diploma in Mechanical Engineering and her MSc in Autonomous Systems and Robotics from the National Technical University of Athens (NTUA) in Greece. She has worked in the field of Robotic Process Automation as a software developer from 2020 - 2021. She is currently pursuing a Ph.D. in Mechanical Engineering on the performance analysis of an ankle-foot prosthesis with controllable impedance in dynamic environments.
-    </p>
-    <div style="display: flex; gap: 1rem; flex-wrap: wrap; font-size: 0.9rem;">
-      <a href="mailto:cangelid@udel.edu" style="color: #38BDF8; text-decoration: underline;">📧 Email</a>
-    </div>
-  </div>
-</div>
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 10px; padding: 1.25rem; margin-bottom: 1.5rem; align-items: flex-start;">
   <img src="/media/Bachoumas.jpg" alt="Stergios E. Bachoumas" style="width: 225px; height: 300px; object-fit: cover; border-radius: 8px; flex-shrink: 0;">
@@ -202,6 +190,10 @@ summary: "Lab Director, researchers, graduate students, and alumni of HORC Lab."
 ### Ph.D. & Postdoctoral Alumni
 
 <div style="column-width: 320px; column-gap: 0rem; margin-top: 1rem;">
+
+* **Charikleia Angelidou, Ph.D.**  
+  *Mechanical Engineering, UD*  
+  `Harvard University (postdoc)` 🎓
 
 * **Gustavo A. Cardona, Ph.D.**  
   *[postdoc]*  
