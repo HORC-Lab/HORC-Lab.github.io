@@ -1,5 +1,5 @@
 ---
-title: "Investigating the Adaptive Effects of Ground Compliance in Visual Feedback-Based Propulsion Training"
+title: Investigating the Adaptive Effects of Ground Compliance in Visual Feedback-Based Propulsion Training
 authors:
   - Bradley Hobbs
   - Panagiotis Artemiadis
