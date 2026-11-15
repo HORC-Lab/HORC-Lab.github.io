@@ -2,7 +2,7 @@
 title: "Neural Human-Robot Interfaces for Intuitive Collaboration"
 summary: "Developing advanced neural human-robot interfaces that leverage neural signals to enable intuitive, adaptive physical interaction for rehabilitation and human augmentation applications."
 type: book
-weight: 5
+weight: 6
 # Disable author profile block
 profile: false
 authors: []

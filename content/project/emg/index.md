@@ -2,7 +2,7 @@
 title: "Neuromuscular Interface Development for Enhancing Human-Machine Collaboration"
 summary: "Developing advanced neuromuscular interfaces using EMG signals to enable intuitive, real-time human control of robotic systems across rehabilitation, prosthetics, and assistive technology."
 type: book
-weight: 6
+weight: 7
 # Disable author profile block
 profile: false
 authors: []
